@@ -27,7 +27,7 @@ Tools: Google Sheets (test cases, metrics, bug reports), XMind (mind maps).
 ---
 
 ## 📚 Documentation
-Test Plan: Outlined objectives, scope, resources, and timelines.
+Test Plan: Outlined objectives, scope, resources, timelines and more.
 
 Mind Maps (XMind): Visualized test scenarios for each module.
 
@@ -37,7 +37,7 @@ Test Metrics: Pass/fail rates, defect density, and module-wise analysis.
 
 Bug Reports: 19 detailed reports with steps to reproduce, severity, and screenshots.
 
-Test Summary Report: Consolidated findings, risks, and recommendations.
+Test Summary Report: Consolidated findings.
 
 Improvement Scopes: UX/UI suggestions, performance optimizations, and edge-case handling.
 
@@ -48,10 +48,10 @@ Passed: 231 (92.4%)
 
 Failed: 19 (7.6%)
 
-Critical Modules with Most Defects: Checkout, Prescription Handling, Payment Gateway
+Critical Modules with Most Defects: Checkout, User Management, Payment Gateway.
 
 ## 💡 Skills Demonstrated
-Manual Testing Expertise: Functional, regression, and edge-case testing.
+Manual Testing Expertise: Functional, Usability testing, and edge-case testing.
 
 Documentation: Test plans, cases, and reports adhering to QA standards.
 
@@ -59,4 +59,4 @@ Defect Tracking: Detailed bug reporting with severity prioritization.
 
 Analytical Skills: Root-cause analysis and actionable improvement suggestions.
 
-Tool Proficiency: Google Sheets, XMind, Jira (if applicable).
+Tool Proficiency: Google Sheets, XMind.
