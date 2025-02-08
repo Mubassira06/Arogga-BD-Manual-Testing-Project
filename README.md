@@ -22,7 +22,7 @@ Tools: Google Sheets (test cases, metrics, bug reports), XMind (mind maps).
 | **Payment Gateway**       | BKash, COD, SSL validation, error handling                                     |  
 | **Prescription Handling** | File upload (PDF/IMG), size validation, error messages                         |  
 | **Order Management**      | Tracking, cancellation, reorder functionality                                  |  
-| *...and 5 more modules*   | *See full list in [Test Plan](link)*                                           |  
+| *...and 5 more modules*   | *See full list in [Test Plan](https://drive.google.com/file/d/1ctqXFH1orHLG7k53Y8iXi21kAVYly0cQ/view?usp=sharing)*                                           |  
 
 ---
 
@@ -59,4 +59,4 @@ Defect Tracking: Detailed bug reporting with severity prioritization.
 
 Analytical Skills: Root-cause analysis and actionable improvement suggestions.
 
-Tool Proficiency: Google Sheets, XMind (if applicable).
+Tool Proficiency: Google Sheets, XMind, Jira (if applicable).
